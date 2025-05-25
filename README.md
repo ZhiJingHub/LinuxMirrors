@@ -99,9 +99,3 @@ GNU/Linux 更换系统软件源脚本及 Docker 安装与换源脚本
         <td align="center">19 ~ 24</td>
     </tr>
 </table>
-
-<p align="center">
-    <strong>
-        <a href="https://linuxmirrors.cn" style="text-decoration: none;">官方网站</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linuxmirrors.cn/use" style="text-decoration: none;">使用方法</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linuxmirrors.cn/mirrors" style="text-decoration: none;">软件源列表</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linuxmirrors.cn/other" style="text-decoration: none;">Docker 安装(额外脚本)</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linuxmirrors.cn/community" style="text-decoration: none;">社区</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://linuxmirrors.cn/sponsor" style="text-decoration: none;">赞助</a>
-    </strong>
-</p>
