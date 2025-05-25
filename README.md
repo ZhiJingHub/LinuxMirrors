@@ -100,3 +100,18 @@
         <td align="center">19 ~ 24</td>
     </tr>
 </table>
+
+
+## 快速开始
+
+### GNU/Linux 更换系统软件源脚本
+
+```bash
+xxx
+```
+
+### Docker 安装脚本
+
+```bash
+xxx
+```
